@@ -31,4 +31,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Website Deployed
 
-https://master--sparkly-pudding-759240.netlify.app/home
+https://master--sparkly-pudding-759240.netlify.app
